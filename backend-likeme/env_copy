@@ -1,5 +1,6 @@
-PGHOST=localhost
 PGUSER=postgres
-PGDATABASE=plan_de_viajes
+PGHOST=localhost
 PGPASSWORD=
-PGPORT=5433
+PGDATABASE=likeme
+PGPORT=5432
+PORT=3000
