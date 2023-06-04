@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 app.use("/", myRouter);
 
-console.log(myRouter);
+//console.log(myRouter);
 
 const PORT = process.env.port || 3002;
 app.listen(PORT, () => {
